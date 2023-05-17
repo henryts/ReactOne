@@ -1,0 +1,33 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .card {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+    margin-top: 30px;
+  }
+  
+  .topic {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    margin-bottom: 10px;
+  }
+  
+  .availability {
+    display: inline-block;
+    background-color: #7ac943;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+  

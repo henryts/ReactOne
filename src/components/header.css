@@ -1,0 +1,32 @@
+header {
+    background-color: #F8F8F8;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .site-title {
+    font-size: 36px;
+    color: #333333;
+    margin-bottom: 10px;
+  }
+  
+  .menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .menu li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .menu li a {
+    color: #666666;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .menu li a:hover {
+    color: #FFA500;
+  }

@@ -1,0 +1,31 @@
+.card {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px;
+  }
+  
+  .topic {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    margin-bottom: 10px;
+  }
+  .Unavailability{
+    display: inline-block;
+    background-color: #ea2604;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+  
+  .availability {
+    display: inline-block;
+    background-color: #7ac943;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+  }
+  
